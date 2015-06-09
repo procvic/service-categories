@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^categories/(\d+)*$ ./categories.php?id=$1
+RewriteRule ^subjects$ ./subjects.php
