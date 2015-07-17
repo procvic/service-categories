@@ -4,17 +4,16 @@ $result = [
     1 => [
         'name' => 'Matematika',
         'subcategories' => [
-            2 => '1. stupeň ZŠ',
-            3 => '2. stupeň ZŠ',
-            4 => 'SŠ',
-            5 => 'VŠ',
+            2 => 'Základní škola',
+            4 => 'Střední škola',
+            5 => 'Vysoká škola',
         ],
     ],
     6 => [
         'name' => 'Dějepis',
         'subcategories' => [
-            7 => 'ZŠ',
-            8 => 'SŠ',
+            7 => 'Základní škola',
+            8 => 'Střední škola',
         ],
     ],
 ];
